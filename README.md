@@ -1,8 +1,8 @@
 # UrbanTransfer
-use jupyter notebook
+use jupyter notebook<br>
 
-pre-requisites:
-keras (with tensorflow or theano backend) version>2.0
-pyplot and graphviz
-pandas
-h5py
+pre-requisites:<br>
+keras (with tensorflow or theano backend) version>2.0<br>
+pyplot and graphviz<br>
+pandas<br>
+h5py<br>
